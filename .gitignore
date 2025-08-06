@@ -1,0 +1,17 @@
+```
+# Build artifacts
+_build/
+*.o
+*.exe
+*.native
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# snow files
+/main
